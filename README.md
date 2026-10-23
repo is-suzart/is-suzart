@@ -29,6 +29,14 @@ I build interfaces with an engineer’s mindset and a designer’s eye. Based in
 | [**Dank Files**](https://github.com/is-suzart/dank-files) | A Linux file manager integrated with Dank Material Shell, built with TypeScript/TSX and Nandomo. Tabs, file previews, desktop integration, and a UI that belongs on the desktop. **Public preview.** |
 | [**VoltHub**](https://github.com/is-suzart/volthub) | A postgraduate team project for EV charging reservations, monitoring, and billing. Java/Spring Boot and Node.js services connected through Kafka and MQTT, with PostgreSQL and Keycloak. **Academic project.** |
 
+### A little snake break 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/is-suzart/is-suzart/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/is-suzart/is-suzart/output/github-snake.svg" />
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/is-suzart/is-suzart/output/github-snake.svg" />
+</picture>
+
 ### Let's talk
 
 I'm interested in thoughtful interfaces, frontend architecture, open-source tools, and software that gives people more control over their digital lives.
